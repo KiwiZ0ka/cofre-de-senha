@@ -105,4 +105,3 @@ jobs:
           exit 1  
           fi    
          echo "Nenhum secret exposto encontrado!"
-veja menos
